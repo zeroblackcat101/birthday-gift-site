@@ -11,7 +11,7 @@ addEventListener("load", (event) => {
     happyGifEl.src =
       "images/magnoon.jpg";
 
-    await waitforme(2000);    
+    await waitforme(1000);    
     happyGifEl.src =
     "./images/happy.gif";
 
@@ -27,7 +27,7 @@ addEventListener("load", (event) => {
   hotGifEl.addEventListener("mouseover",async () => {
     hotGifEl.src =
       "images/mozza.jpg";
-    await waitforme(2000);    
+    await waitforme(1000);    
     hotGifEl.src =
     "./images/hot.gif";
 
@@ -43,7 +43,7 @@ addEventListener("load", (event) => {
   geniusGifEl.addEventListener("mouseover",async () => {
     geniusGifEl.src =
       "images/raye2.jpg";
-    await waitforme(2000);    
+    await waitforme(1000);    
     geniusGifEl.src =
     "./images/chill.gif";
 
@@ -59,7 +59,7 @@ addEventListener("load", (event) => {
   badGifEl.addEventListener("mouseover",async () => {
     badGifEl.src =
       "images/prince.jpg";
-    await waitforme(2000);    
+    await waitforme(1000);    
     badGifEl.src =
     "./images/badass.gif";
 
@@ -75,7 +75,7 @@ addEventListener("load", (event) => {
   cheerGifEl.addEventListener("mouseover",async () => {
     cheerGifEl.src =
       "images/7bb.jpg";
-    await waitforme(2000);    
+    await waitforme(1000);    
     cheerGifEl.src =
     "./images/cheers.gif";
 
